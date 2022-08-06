@@ -5,3 +5,6 @@ Ola ma psa
 
 
 moja teraz zmiana
+
+
+testujemy git
